@@ -1,15 +1,15 @@
 {
   "name": "mxlookup",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-	"mxlookup": "app.js"
+    "mxlookup": "app.js"
   },
   "keywords": [],
   "author": "Vishal Doshi <vishal.doshi@gmail.com>",
-  "license": "ISC"
+  "license": "GPLv2"
 }
