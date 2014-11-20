@@ -1,7 +1,6 @@
-mxlookup [![npm version](https://badge.fury.io/js/mxlookup.svg)](http://badge.fury.io/js/mxlookup)
+mxlookup
 ========
-
-
+[![npm version](https://badge.fury.io/js/mxlookup.svg)](http://badge.fury.io/js/mxlookup)
 
 Simple command line tool to resolve MX addresses for a specified domain. 
 
